@@ -10,6 +10,6 @@ Most of what's public here is a deliberate practice in **directing AI coding age
 - **[Blueprint templates](https://github.com/efischer19/blueprint-repo-blueprints)**: a family of GitHub template repos that turn lessons learned into paved roads, from "use ADRs" up to an empty repo → a deployed AWS data pipeline.
 - **[Commit Hygiene](https://gist.github.com/efischer19/5d05178edd20054b3a9d85bd656f54f2)**: why and how I curate commits and pull requests.
 
-**Works in progress**: [hoopstat-haus](https://github.com/efischer19/hoopstat-haus) (an NBA/WNBA stats lakehouse; the daily build runs, but much of the design is still ahead of the code) and [scrymat](https://github.com/efischer19/scrymat) (a peer-to-peer Magic: The Gathering playmat). Each README has an honest status section.
+**Works in progress**: [hoopstat-haus](https://github.com/efischer19/hoopstat-haus) (an NBA/WNBA stats lakehouse; the pipeline code is built and tested, but it isn't publishing data yet) and [scrymat](https://github.com/efischer19/scrymat) (a peer-to-peer Magic: The Gathering playmat). Each README has an honest status section.
 
 **Earlier:** [reactifex](https://github.com/efischer19/reactifex) (~660k npm downloads, part of Open edX's frontend platform) and a few hundred merged PRs across [Open edX](https://github.com/openedx).
